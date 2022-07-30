@@ -916,3 +916,23 @@ strong {
       text-decoration: underline!important;
         color: #f50d6b!important;
 }
+
+@media screen and (max-width:480px) {
+  .gnavi {
+      margin-top: 50px!important;
+      margin-bottom: 50px!important;
+      padding-top: 20px!important;
+      height: 245px!important;
+      line-height: 2.2!important;
+      color: #fff!important;
+      font-size: 1.4rem!important;
+      font-weight: bold!important;
+      background-color: #808080!important;
+    }
+
+    .gnavi ul {
+      height: 100%!important;
+      display: initial!important;
+      margin: initial !important;
+    }
+}
