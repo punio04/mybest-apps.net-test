@@ -3574,3 +3574,7 @@ strong {
     margin: initial !important;
   }
 }
+
+html {
+  scroll-behavior: smooth;
+}
